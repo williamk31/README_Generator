@@ -47,7 +47,7 @@ const questions = [
         type: 'list',
         message: 'What license does your application use?',
         choices: [
-            'MIT', 'EPL_1.0', 'Apache_2.0', 'GPLv3', 'GPLv2', 'ISC', 'None',
+            'MIT License', 'EPL_1.0', 'Apache_2.0', 'GNU GPLv3', 'GNU GPLv2', 'ISC License', 'None',
         ],
         name: 'license'
     }
