@@ -22,6 +22,7 @@ node index.js
 
 ## Usage
 Follow the prompts in your command line to generate your README file. This video provides a detailed walkthrough of the application's functionality:
+[Walkthrough Video](https://drive.google.com/file/d/1uoh2zDniK-eFKUZuujWiFovoOZC_xvI6/view)
 
 ## Questions
 For questions on the project, vist my [GitHub](https://github.com/williamk31) profile.
